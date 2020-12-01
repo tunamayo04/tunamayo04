@@ -3,15 +3,20 @@
 
 <p align="left"> <a href="https://twitter.com/zerox029" target="blank"><img src="https://img.shields.io/twitter/follow/zerox029?logo=twitter&style=for-the-badge" alt="zerox029" /></a> </p>
 
-- 🔭 I’m currently working on [Rusty Bunny](https://github.com/zerox029/RustyBunny)
+- 🔭 I’m currently working on [Maru Store](https://github.com/zerox029/maru-store)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust and Redux**
 
 - 📫 How to reach me **zerox029@gmail.com**
 
 - 🌍 English, French and Japanese
 
 - ⚡ Fun fact **I like linguistics**
+
+- 📋 Projects I plan on building
+  - Apple music and Spotify integrated web based music player
+  - Bug tracking tool
+  - Anki deck integration in a discord bot
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
