@@ -16,7 +16,7 @@
 - 📋 Projects I plan on building
   - Apple music and Spotify integrated web based music player
   - Bug tracking tool
-  - Anki deck integration in a discord bot
+  - Gameboy emulator
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
