@@ -17,7 +17,7 @@
   - Apple music and Spotify integrated web based music player
   - Bug tracking tool
   - Gameboy emulator
-  - Condensed linguistc input generator
+  - Condensed linguistic input generator
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
