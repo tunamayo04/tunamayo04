@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/zerox029" target="blank"><img src="https://img.shields.io/twitter/follow/zerox029?logo=twitter&style=for-the-badge" alt="zerox029" /></a> </p>
 
-- 🔭 I’m currently working on [Maru Store](https://github.com/zerox029/maru-store)
+- 🔭 I’m currently working on [Kanji Trainer](https://github.com/zerox029/KanjiTrainer)
 
-- 🌱 I’m currently learning **Rust and Redux**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **zerox029@gmail.com**
 
