@@ -18,7 +18,7 @@
   - Bug tracking tool
   - Gameboy emulator
   - Condensed linguistic input generator
-  - Kanji writing practice based on multiple anki decks
+  - Bézier curve visualisation
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
