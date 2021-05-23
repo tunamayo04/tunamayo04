@@ -20,6 +20,7 @@
   - Condensed linguistic input generator
   - Bézier curve visualisation
   - Shell
+  - Shogi engine
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
