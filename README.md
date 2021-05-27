@@ -21,6 +21,7 @@
   - Bézier curve visualisation
   - Shell
   - Shogi engine
+  - Strange attractor visualization
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
