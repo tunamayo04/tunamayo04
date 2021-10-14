@@ -21,7 +21,6 @@
   - Bézier curve visualisation
   - Shell
   - Shogi engine
-  - Midi connected chord recognition and creation trainer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
