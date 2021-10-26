@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/zerox029" target="blank"><img src="https://img.shields.io/twitter/follow/zerox029?logo=twitter&style=for-the-badge" alt="zerox029" /></a> </p>
 
-- 🔭 I’m currently working on *nothing really*
+- 🔭 I’m currently working on *a Lox interpreter*
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning about **Compiler design**
 
 - 📫 How to reach me **zerox029@gmail.com**
 
