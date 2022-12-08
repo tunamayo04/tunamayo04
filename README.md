@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Étienne Plante</h1>
+<h1 align="center">Hi 👋, I'm Emma Plante</h1>
 <h3 align="center">A full stack developer from Canada</h3>
 
 <p align="left"> <a href="https://twitter.com/zerox029" target="blank"><img src="https://img.shields.io/twitter/follow/zerox029?logo=twitter&style=for-the-badge" alt="zerox029" /></a> </p>
