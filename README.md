@@ -7,14 +7,13 @@
 
 - 🌱 I’m currently learning about **Hardware Emulation**
 
-- 📫 How to reach me **zerox029 at gmail dot com**
+- 📫 How to reach me **emmaplante04 at gmail dot com**
 
 - 🌍 English, French and Japanese
 
 - ⚡ Fun fact **I like linguistics**
 
 - 📋 Projects I plan on building
-  - Apple music and Spotify integrated web based music player
   - Bug tracking tool
   - Condensed linguistic input generator
   - Bézier curve visualisation
