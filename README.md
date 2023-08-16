@@ -18,6 +18,7 @@
   - Condensed linguistic input generator
   - Bézier curve visualisation
   - Shell interpreter
+  - File compressor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
