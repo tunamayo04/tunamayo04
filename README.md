@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/zerox029" target="blank"><img src="https://img.shields.io/twitter/follow/zerox029?logo=twitter&style=for-the-badge" alt="zerox029" /></a> </p>
 
-- 🔭 I’m currently working on *a Gameboy emulator*
+- 🔭 I’m currently working on *a C compilerr*
 
-- 🌱 I’m currently learning about **Hardware Emulation**
+- 🌱 I’m currently learning about **Compiler Design**
 
 - 📫 How to reach me **emmaplante04 at gmail dot com**
 
@@ -17,7 +17,7 @@
   - Bug tracking tool
   - Condensed linguistic input generator
   - Bézier curve visualisation
-  - Shell
+  - Shell interpreter
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
