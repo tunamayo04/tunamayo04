@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/zerox029" target="blank"><img src="https://img.shields.io/twitter/follow/zerox029?logo=twitter&style=for-the-badge" alt="zerox029" /></a> </p>
 
-- 🔭 I’m currently working on *a C compilerr*
+- 🔭 I’m currently working on *a C compiler*
 
 - 🌱 I’m currently learning about **Compiler Design**
 
