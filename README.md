@@ -2,7 +2,7 @@
 <h3 align="center">A full stack developer from Canada</h3>
 
   - 🔭 I’m currently working on my own programming language called *Kodama*
-- 🌱 I’m currently learning about **Compiler Design**
+- 🌱 I’m currently learning about **Type Theory**
 - 📫 How to reach me **emmaplante04 at gmail dot com**
 - 🌍 English, French and Japanese
 - ⚡ Fun fact **I like linguistics too**
