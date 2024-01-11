@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emma Plante</h1>
+<h1 align="center">Hi 👋, I'm Etienne Plante</h1>
 <h3 align="center">A full stack developer from Canada</h3>
 
   - 🔭 I’m currently working on my own programming language called *Kodama*
