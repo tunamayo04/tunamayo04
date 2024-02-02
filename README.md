@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emma Plante</h1>
-<h3 align="center">A full stack developer from Canada</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm A full stack developer from Canada</h3>
 
   - 🔭 I’m currently working on my own programming language called *Kodama*
 - 🌱 I’m currently learning about **Type Theory**
