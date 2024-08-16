@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm A full stack developer from Canada</h3>
+<h3 align="center">I'm a full stack developer from Canada</h3>
 
   - 🔭 I’m currently working on a small operating system called *Toast*
 - 🌱 I’m currently learning about **OS design**
