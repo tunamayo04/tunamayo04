@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm a full stack developer from Canada</h3>
 
-  - 🔭 I’m currently working on a small operating system called *Toast*
-- 🌱 I’m currently learning about **OS design**
+  - 🔭 I’m currently working on a Japanese tokenizer called *Amaterasu*
+- 🌱 I’m currently learning about **Machine Learning**
 - 📫 How to reach me **emmaplante04 at gmail dot com**
 - 🌍 English, French and Japanese
 - ⚡ Fun fact **I like linguistics too**
