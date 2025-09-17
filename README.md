@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Emma 👋</h1>
-<h3 align="center">I'm a full stack developer from Canada</h3>
+<h3 align="center">I'm a developer from Canada</h3>
 
-  - 🔭 I’m currently working on a Japanese tokenizer called *Amaterasu*
-- 🌱 I’m currently learning about **Machine Learning**
+  - 🔭 I’m currently working on a GameBoy emulator called *Rainier*
+- 🌱 I’m currently learning about **Console Emulation**
 - 📫 How to reach me **emmaplante04 at gmail dot com**
 - 🌍 English, French and Japanese
 - ⚡ Fun fact **I like linguistics too**
