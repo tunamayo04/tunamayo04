@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Emma 👋</h1>
-<h3 align="center">I'm a developer from Canada</h3>
+<h3 align="center">I'm a rustacean from Canada</h3>
 
   - 🔭 I’m currently working on a GameBoy emulator called *Rainier*
 - 🌱 I’m currently learning about **Console Emulation**
